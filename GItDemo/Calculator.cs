@@ -21,6 +21,10 @@ public class Calculator
         return (double)a / b;
     }
 
+    public int Multiply(int a, int b)
+    {
+        return a * b;
+    }
 }
 
 
