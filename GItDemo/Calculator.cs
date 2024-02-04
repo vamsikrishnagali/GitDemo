@@ -13,3 +13,11 @@ public class Calculator
 
 }
 
+
+public class area
+{
+    public int Square(int l, int w)
+    {
+        return l * w;
+    }
+}
